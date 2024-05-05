@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Data Loader Reference Tables  - Load a series of reference tables into a relational datastore
 Load a series of reference tables into a relational datastore
 
@@ -9,8 +11,6 @@ Welcome to the solution **Data Loader Reference Tables ** - an example for your 
 Load a series of reference tables into a relational datastore
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
