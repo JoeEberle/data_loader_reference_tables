@@ -46,4 +46,7 @@ To get started with the **Data Loader Reference Tables ** solution repository, f
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](joe_logo.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](joe_logo.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
