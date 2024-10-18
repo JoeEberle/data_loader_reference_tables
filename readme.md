@@ -2,7 +2,7 @@
 Welcome to the solution **Data Loader Reference Tables ** - an example for your projects
 
 Load a series of reference tables into a relational datastore
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
